@@ -9,3 +9,5 @@ const Waiter = () => (
     <h2>Waiter view</h2>
   </div>
 );
+
+export default Waiter;
